@@ -5,7 +5,7 @@ Functions of MultWaver 2.0 were also implemented in this new version, which can 
 The usages of MultiWaverX can be found in MultiWaverX_manual.pdf
 
 
-#### Citations
+#### Citations:
 If you use MultiWaverX in your research, please cite the following paper:
 
 Zhang R, Ni X, Yuan K, Pan Y, Xu S. MultiWaverX: modeling latent sex-biased admixture history. Brief Bioinform. 2022 May 23:bbac179. doi: 10.1093/bib/bbac179.
